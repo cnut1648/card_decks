@@ -1,0 +1,27 @@
+4 Animate Dead
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+4 Brainstorm
+1 Brazen Borrower
+4 Dauthi Voidwalker
+4 Daze
+4 Entomb
+2 Flooded Strand
+4 Force of Will
+4 Grief
+1 Island
+4 Polluted Delta
+4 Ponder
+4 Reanimate
+1 Swamp
+4 Troll of Khazad-dum
+1 Undercity Sewers
+4 Underground Sea
+4 Wasteland
+[side]
+3 Brazen Borrower
+1 Engineered Explosives
+4 Fatal Push
+2 Force of Negation
+4 Orcish Bowmasters
+1 Surgical Extraction
